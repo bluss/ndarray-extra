@@ -1,0 +1,7 @@
+[package]
+name = "ndarray-extra"
+version = "0.1.0"
+authors = ["bluss <bluss@users.noreply.github.com>"]
+
+[dependencies]
+ndarray = "0.6"
